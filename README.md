@@ -11,15 +11,19 @@ Model-based recommendation provides a better RMSE after I adding more features i
 we consider the item-based recommendation with a factor of 0.07, otherwise, with 0 (only use model-based result).
 
 Error Distribution:
->=0 and <1: 102019
->=1 and <2: 33041
->=2 and <3: 6172
->=3 and <4: 811
->=4: 1
+
+\>=0 and <1: 102019
+
+\>=1 and <2: 33041
+
+\>=2 and <3: 6172
+
+\>=3 and <4: 811
+
+\>=4: 1
 
 RMSE:
 0.979820
 
 Execution Time:
 223s
-"""
